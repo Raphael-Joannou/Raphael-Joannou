@@ -37,4 +37,4 @@ I'm a full stack developer currently working as a software engineer at GIGING(.a
   </a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nigelallenanderson&show_icons=true&locale=en" alt="nigelallenanderson" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=raphael-joannou&show_icons=true&locale=en" alt="raphael-joannou" /></p>
