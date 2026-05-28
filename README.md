@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋, I'm Raphael</h1>
 
-I'm a full stack developer, My major pashions are AI/ML, Cyber Security (specifically web penetration testing) and maintaining my ever growing homelab (truenas anyone? 👀), Welcome to my page!
+I'm a [full stack developer](https://au.linkedin.com/in/raphael-joannou-212964326), My major pashions are AI/ML, Cyber Security (specifically web penetration testing) and maintaining my ever growing homelab (truenas anyone? 👀), Welcome to my page!
   
 <h3 align="left">Languages:</h3>
 <p align="left">
